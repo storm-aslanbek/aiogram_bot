@@ -157,3 +157,6 @@ async def unfamiliar_message(message: types.Message):
 
 if __name__ == '__main__':
     executor.start_polling(dp, on_startup=start_db, skip_updates=True)
+
+vvfvfv
+# для коммита 2
